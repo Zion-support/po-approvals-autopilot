@@ -1,6 +1,6 @@
 # PO Approvals Autopilot — Network Links
 
-Automate purchase-order approvals with policy guardrails and routing.
+Purchase order routing, approval guardrails and audit trail.
 
 ## Live
 - App: https://ziontechgroup.com/po-approvals-autopilot/
@@ -9,8 +9,8 @@ Automate purchase-order approvals with policy guardrails and routing.
 
 ## Related apps
 - [deal-desk-copilot](https://ziontechgroup.com/deal-desk-copilot/) · [GitHub](https://github.com/Zion-support/deal-desk-copilot)
-- [expense-audit-ai](https://ziontechgroup.com/expense-audit-ai/) · [GitHub](https://github.com/Zion-support/expense-audit-ai)
 - [ar-collections-prioritizer](https://ziontechgroup.com/ar-collections-prioritizer/) · [GitHub](https://github.com/Zion-support/ar-collections-prioritizer)
+- [invoice-match-ai](https://ziontechgroup.com/invoice-match-ai/) · [GitHub](https://github.com/Zion-support/invoice-match-ai)
 
 ## Network
 - Homepage: https://ziontechgroup.com
